@@ -1,0 +1,90 @@
+    
+body{
+    background-image: url(imagenes/fondo-de-pantalla.jpg);
+    background-repeat:unset;
+}
+.titulo_grande{
+    color: crimson;
+    background-image: url(imagenes/mar.jpg);
+    min-height: 100px;
+    font-size: 300%;
+    ;
+    
+}
+.color_rojo{
+    color: rgb(0, 0, 0);
+    background-image: url(imagenes/mar.jpg);
+    width: 100%; height: 100px;
+    margin: 5px;
+    
+}
+#titulo{ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: rgb(45, 64, 42);
+    border: 5px chocolate;
+    padding: 5px;
+    
+}
+p{
+    color: rgb(239, 9, 9);
+    border: 5px chocolate;
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.carter{
+    width: 500px; height: 266px;
+}
+.videos-youtube {
+    width: 600px; height: 266px;
+
+}
+.h3 {
+    background-color: #97e3f2;
+}
+.table {
+    background-color: #f0e10d;
+    
+
+}
+.consignas {
+    background-color: rgb(254, 12, 12);
+}
+#el-titulo{
+    color: rgb(255, 5, 5);
+    background-color: black;
+}
+#carter-2{
+    color: red;
+}
+    
+#texto-dan{
+    color: rgb(80, 79, 79);
+    background-color: black;
+   
+}
+#objetivocumplido {
+    color: rgb(67, 67, 67);
+    background-color: rgb(255, 255, 255);
+}
+.body-carter {
+     background:url(imagenes/carter.png) ;
+
+}
+#entrenador-1{
+    width: 520px; height: 266px;
+}
+#StephenWilliam{
+    color: rgb(255, 8, 8);
+    
+}
+
+#body-entrenador{
+    background:url(imagenes/entr-2.jpg) 60rem;
+    background-repeat:repeat;
+   
+
+}
+#texto_ent{
+    color: rgb(255, 255, 255);
+}
